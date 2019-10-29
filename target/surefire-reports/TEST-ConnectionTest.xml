@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="ConnectionTest" time="0.436" tests="15" errors="0" skipped="0" failures="0">
+  <properties/>
+  <testcase name="selectListenCurrentMessageShouldShowActualMessages" classname="ConnectionTest" time="0.408"/>
+  <testcase name="dialExistingMailbox" classname="ConnectionTest" time="0.001"/>
+  <testcase name="setPasswordShouldShowNewPassword" classname="ConnectionTest" time="0.001"/>
+  <testcase name="changePassCodeShouldShowTheMainMenu" classname="ConnectionTest" time="0.002"/>
+  <testcase name="changeGreeting" classname="ConnectionTest" time="0.002"/>
+  <testcase name="setGreetingShouldShowNewGreeting" classname="ConnectionTest" time="0.001"/>
+  <testcase name="loginWithIncorrectPasscode" classname="ConnectionTest" time="0.001"/>
+  <testcase name="selectDeleteCurrentMessageShouldBeShowMessagesMenu" classname="ConnectionTest" time="0.001"/>
+  <testcase name="selectReturnToTheMainMenuShouldBeShowMainMenu" classname="ConnectionTest" time="0"/>
+  <testcase name="selectListenMessageShouldShowListenOptions" classname="ConnectionTest" time="0.001"/>
+  <testcase name="changePassCodeShouldChangeThePassCode" classname="ConnectionTest" time="0.003"/>
+  <testcase name="loginWhitCorrectPasscode" classname="ConnectionTest" time="0.001"/>
+  <testcase name="dialNotExistMailbox" classname="ConnectionTest" time="0.001"/>
+  <testcase name="selectSaveCurrentMessagesShouldBeShowMessagesMenu" classname="ConnectionTest" time="0.001"/>
+  <testcase name="connectionShouldStartInitialPrompt" classname="ConnectionTest" time="0"/>
+</testsuite>
